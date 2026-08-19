@@ -1,0 +1,4 @@
+experiment_group,players,d1_retention,d3_retention,d7_retention,d14_retention,avg_sessions,avg_levels_completed,avg_session_minutes,purchase_conversion,revenue_per_player
+Control,10000,0.2451,0.2075,0.1464,0.0924,8.3799,22.0731,83.72841,0.0605,0.47385299999999997
+Daily_Reward,10000,0.3106,0.2616,0.1832,0.1094,10.7159,28.3923,106.28433000000001,0.0771,0.629134
+Free_Hint,10000,0.3244,0.2728,0.1945,0.1114,10.6786,28.2957,105.2896,0.0563,0.39467
